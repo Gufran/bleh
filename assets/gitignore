@@ -1,0 +1,6 @@
+tags
+.otto/**
+mocks/**
+build/**
+coverage_*
+Session.vim

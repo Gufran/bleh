@@ -1,0 +1,10 @@
+language: go
+
+go:
+    - 1.5
+
+script:
+    - make tools
+    - make mocks
+    - make release
+
